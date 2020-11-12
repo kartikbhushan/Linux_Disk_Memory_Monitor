@@ -18,3 +18,6 @@ sudo python3 disk_report.py /opt
 3. pandas
 
 ## Working
+
+<img src="./working/script-usage.png" alt="usage" width="500">
+<img src="./working/script-csv.png" alt="usage" width="500">
